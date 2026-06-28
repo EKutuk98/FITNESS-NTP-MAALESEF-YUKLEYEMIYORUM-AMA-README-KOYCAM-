@@ -10,7 +10,7 @@ Sporcu ve antrenman yönetimine odaklanan, kapsamlı ilerleme takibi ve gamifica
 
 ---
 
-## 📸 Ekran Görüntüleri
+
 
 
 
